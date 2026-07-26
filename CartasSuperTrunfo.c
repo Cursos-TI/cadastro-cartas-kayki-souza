@@ -48,7 +48,7 @@ int main() {
     //dados da segunda carta
             printf("DADOS DA SEGUNDA CARTA:\n\n");
 
-    printf("Digite uma letra pra representar o estado2: ");
+    printf("Digite uma letra para representar o estado2: ");
     scanf(" %c", &estado2);
     printf("Digite o codigo da carta2: ");
     scanf("%s", &codigo2);
